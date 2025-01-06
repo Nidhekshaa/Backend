@@ -1,3 +1,4 @@
+//usercontroller file
 import user from '../model/userModel.js'
 
 export const create = async(req,res)=>{
